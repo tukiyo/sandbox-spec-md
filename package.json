@@ -1,0 +1,15 @@
+{
+  "name": "sandbox-spec-md",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/kumatch/sandbox-spec-md",
+  "repository": {
+    "url": "git://github.com/kumatch/sandbox-spec-md.git"
+  },
+  "scripts": {
+    "build": "mkdir -p dist; cp node_modules/spec-md/css/* dist; node_modules/.bin/spec-md README.md > dist/index.html"
+  },
+  "devDependencies": {
+    "spec-md": "^0.3.7"
+  }
+}
