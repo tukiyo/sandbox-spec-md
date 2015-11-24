@@ -1,10 +1,10 @@
 sandbox-spec-md
 ============
 
-A sandbox for [Spec Markdown](https://github.com/leebyron/spec-md).
+* [書式](http://leebyron.com/spec-md/)
 
-# [First](./specs/first.md)
+# [1_First](./specs/1_first.md)
 
-# [Sections](./specs/sections.md)
+# [2_Sections](./specs/2_sections.md)
 
-# [Value](./specs/value.md)
+# [3_Value](./specs/3_value.md)
